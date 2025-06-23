@@ -11,7 +11,7 @@
     "version": "1.0.0",
     "author": "Cosmic IDE Team",
     "description": "A dark theme for the Cosmic IDE, with a focus on high contrast and readability.",
-    "source": "https://github.com/edilsongg/extensions/CosmicDarkTheme.zip"
+    "source": "https://github.com/edilsongg/extensions/raw/refs/heads/main/CosmicDarkTheme.zip"
   },
   {
     "name": "MaterialIconsPack",
