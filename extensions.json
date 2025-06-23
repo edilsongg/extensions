@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ChangeDataDirectory",
+    "version": "1.0.0",
+    "author": "Pranav Purwar",
+    "description": "Changes the directory where the IDE stores the data including projects, plugins, etc. to external storage.",
+    "source": "https://github.com/Cosmic-Ide/ChangeDataDirectory.zip"
+  },
+  {
+    "name": "CosmicDarkTheme",
+    "version": "1.0.0",
+    "author": "Cosmic IDE Team",
+    "description": "A dark theme for the Cosmic IDE, with a focus on high contrast and readability.",
+    "source": "https://github.com/Cosmic-Ide/CosmicDarkTheme.zip"
+  },
+  {
+    "name": "MaterialIconsPack",
+    "version": "1.0.0",
+    "author": "Google Inc.",
+    "description": "A comprehensive icon pack based on Google Material Icons for file tree view.",
+    "source": "https://github.com/Cosmic-Ide/MaterialIconsPack.zip"
+  }
+]
